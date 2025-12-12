@@ -26,4 +26,4 @@ Use the following code:
 ```<!DOCTYPE html>
 <html>
 <meta http-equiv="refresh" content="0; url=https://therickyfoster.github.io/alberta_housing_tracker/alberta/housing/tracker">
-</html>```
+</html>
