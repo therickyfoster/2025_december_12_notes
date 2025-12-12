@@ -23,8 +23,9 @@ The solution:
 Make a new index.html at the main repo link: github.com/therickyfoster/alberta_housing_tracker
 
 Use the following code:
-<!--> <!DOCTYPE html>
+```<!--> <!DOCTYPE html>
 <html>
 <meta http-equiv="refresh" content="0; url=https://therickyfoster.github.io/alberta_housing_tracker/alberta/housing/tracker">
-</html> 
+</html>
+```
 </!-->
