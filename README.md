@@ -1,4 +1,4 @@
-****0900****
+**0900** - 
 With no way to confirm the actual state of the world.
 
 I'll treat the recent Asian escalation as actual and provide some guidance.
@@ -13,7 +13,7 @@ If they continue down this path against sovereign nations they will quickly be e
 
 China does not want Taiwan back, they are sovereign.
 
-****13:55****
+**13:55** - 
 Uploaded a project to GitHub.com/therickyfoster/alberta_housing_tracker and the main index.html for the prioject was buried at github.com/therickyfoster/alberta_housing_tracker/tree/main/alberta/housing/tracker
 
 I didn't want to take up unnecesary storage space and redundantly store the file twice by copying it to the main site directory: github.com/therickyfoster/alberta_housing_tracker
