@@ -27,5 +27,5 @@ Use the following code:
 <html>
 <meta http-equiv="refresh" content="0; url=https://therickyfoster.github.io/alberta_housing_tracker/alberta/housing/tracker">
 </html>
-```
 </!-->
+```
